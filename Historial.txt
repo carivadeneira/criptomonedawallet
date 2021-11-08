@@ -1,0 +1,10 @@
+HISTORIAL DE TRANSACCIONES
+
+Fecha: 19/05/2020. Moneda: BTC. Monto (+):      1.00. Cantidad (USD):   9710.00. C�digo: HOLA
+Fecha: 19/05/2020. Moneda: ETH. Monto (+):      3.00. Cantidad (USD):    642.03. C�digo: HOLAAA
+Fecha: 19/05/2020. Moneda: LTC. Monto (+):      1.00. Cantidad (USD):     45.21. C�digo: HOLAB
+Fecha: 06/11/2021. Moneda: BTC. Monto (+):     23.40. Cantidad (USD): 1431809.96. C�digo: 1234
+Fecha: 06/11/2021. Moneda: BTC. Monto (+):    456.00. Cantidad (USD): 28025682.48. C�digo: carlos123
+Fecha: 06/11/2021. Moneda: BTC. Monto (+):      3.00. Cantidad (USD): 184393.02. C�digo: carlos123
+Fecha: 06/11/2021. Moneda: BTC. Monto (+):      3.00. Cantidad (USD): 184411.17. C�digo: carlos123
+Fecha: 06/11/2021. Moneda: BTC. Monto (-):     20.00. Cantidad (USD): 1229114.60. C�digo: FF
